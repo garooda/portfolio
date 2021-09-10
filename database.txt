@@ -1,0 +1,9 @@
+email,subject,message
+hi@bc.com,hi,hello
+hi@bc.com,hi,hello
+hi@bc.com,hi,hello
+hi@bc.com,hi,hello
+bhai@bc.com,hii,helloiii
+bhai@bc.com,hi,goo
+bhai@bc.com,hi,goo
+bhai@bc.com,hi,goo
